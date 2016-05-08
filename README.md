@@ -1,5 +1,5 @@
-# CoffeeShops
-creating CoffeeShops App
+# CoffeeSwift
+creating CoffeeSwifts App
 CoffeeSwift App
 
 ABSTRACT:
